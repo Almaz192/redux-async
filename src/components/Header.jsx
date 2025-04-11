@@ -6,7 +6,7 @@ function Header() {
     return (
         <header>
             <Link to="/users">
-                <h2>Логотип или Название</h2>
+                <h2>YayaYA</h2>
             </Link>
             <nav>
                 <Link to="/users">Пользователи</Link>
